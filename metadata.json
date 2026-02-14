@@ -1,0 +1,7 @@
+{
+  "name": "Demasiado Café",
+  "description": "Una aplicación premium para entusiastas del café que permite registrar, puntuar y compartir tus experiencias cafeteras con un buscador avanzado por origen, tostador y año.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
